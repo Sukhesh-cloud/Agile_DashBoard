@@ -15,4 +15,4 @@ Technology Stack:
  Database: SQL Alchemy
  Testing: unittest/pytest
 
-![image](https://github.com/user-attachments/assets/b2c2d1cb-eefe-4c8f-977e-c32d1bcef1f9)
+
