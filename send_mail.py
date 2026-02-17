@@ -8,11 +8,8 @@ import os
 import smtplib
 from email import encoders
 
-
-# sender_email = "sukheshdasari@gmail.com"
-# sender_password = "drer ssxn yxuk xwlz"  
 SENDER_EMAIL = "examplenamez543@gmail.com"
-SENDER_PASSWORD = "mfnppwcnqlmpzymc"
+SENDER_PASSWORD = ""
 
 def send_otp_email(email, otp):
     subject = 'Your OTP Code'
