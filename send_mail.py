@@ -101,7 +101,7 @@ def user_approved(email, user):
 
 def send_emails_to_users(email_list, project_name, proj_desc, roles):
     sender_email = "sukheshdasari@gmail.com"
-    sender_password = "drerssxnyxukxwlz"  
+    sender_password = "yourpassword"  
     subject = "Project Assignment Notification"
 
     try:
