@@ -33,7 +33,7 @@ login_manager.login_view = "auth.login"
 
 
 # Configurations
-app.config["SECRET_KEY"] = "8BYkEfBA6O6donzWlSihBXox7C0sKR6b"
+app.config["SECRET_KEY"] = "scretkeyanything"
 app.config["SESSION_COOKIE_NAME"] = "your_session_cookie_name"
 app.config["SQLALCHEMY_DATABASE_URI"] = (
     f"sqlite:///{os.path.join(app.instance_path, 'global.db')}"
